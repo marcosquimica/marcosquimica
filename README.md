@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @marcosquimica
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-marcosquimica/marcosquimica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi,Sou professor Marcos Aurélio
+- 👀 Sou porofessor de Física, Química, Matemática e Pensamento computacional
+- 🌱 Interesse em lógica de programação
+- 💞️ email pessoal marcos.a.deivid@gmail.com
+- 📫 Instagram: marcos_aurelio81
+Facebook: marcos Aurélio Andrade
